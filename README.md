@@ -22,3 +22,6 @@ Feb 5th through Feb 23rd (Weeks 17-19): Work on final design
 Feb 26th through Mar 8th (Weeks 20-21): Test final design
 
 Mar 11th through  (Week 22): Apply to real life!!1
+
+## CAD
+[Cadaroonie With Cad And Stuff](https://cvilleschools.onshape.com/documents/1660bdbe2a86c819fdf68038/w/3f3ac5e50ec9923aa97feca0/e/69f7940f0711d1553de42853)
