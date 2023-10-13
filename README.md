@@ -5,7 +5,7 @@ yo wsg homie
 ## Schedule
 Oct 2nd through Oct 6th (Week 1): In-depth planning
 
-Oct 9th through Oct 27th (Weeks 2 - 4): Very rough initial prototype designing
+**Oct 9th through Oct 27th (Weeks 2 - 4): Very rough initial prototype designing**
 
 Oct 30th through Nov 3rd (Week 5): Prototype testing and problem-solving
 
