@@ -25,3 +25,8 @@ Mar 11th through  (Week 22): Apply to real life!!1
 
 ## CAD
 [Cadaroonie With Cad And Stuff](https://cvilleschools.onshape.com/documents/1660bdbe2a86c819fdf68038/w/3f3ac5e50ec9923aa97feca0/e/69f7940f0711d1553de42853)
+
+## Brainstorming
+[Brainstorming Doc](https://docs.google.com/document/d/1VX8IrvJWNNEpSxG4LOfc2I0Pft9MwnXaBZIK02uI0nY/edit)
+
+[Brainstorming/Presentation Slideshow](https://docs.google.com/presentation/d/16n_K39IzQVf-3n8S99K7BM_SljGUPE2S10Zo1NXWe08/edit#slide=id.p)
