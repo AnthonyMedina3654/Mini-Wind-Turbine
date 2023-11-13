@@ -30,3 +30,19 @@ Mar 11th through  (Week 22): Apply to real life!!1
 [Brainstorming Doc](https://docs.google.com/document/d/1VX8IrvJWNNEpSxG4LOfc2I0Pft9MwnXaBZIK02uI0nY/edit)
 
 [Brainstorming/Presentation Slideshow](https://docs.google.com/presentation/d/16n_K39IzQVf-3n8S99K7BM_SljGUPE2S10Zo1NXWe08/edit#slide=id.p)
+
+## Week 12 review:
+### What did we work on?
+We worked on our prototype and its blades. 
+### What decisions were made?
+A vertical wind turbine is the most efficient
+### What new resources did we find?
+Our mentor was able to get us a lot of the materials for the prototype
+### What new issues were discovered?
+It's hard to test wind turbines cause there isn’t always easy access to wind.
+### What went well?
+The vertical aspect of the blades was easy to manufacture
+### What was difficult?
+The fact that none of our scroews fit at all (goober moment)
+### What is our plan for next week?
+To check the voltage output of the prototype to see how much we need for the full scale. 
