@@ -46,3 +46,19 @@ The vertical aspect of the blades was easy to manufacture
 The fact that none of our scroews fit at all (goober moment)
 ### What is our plan for next week?
 To check the voltage output of the prototype to see how much we need for the full scale. 
+#
+## Weeeaak firtween revev:
+### What did you work on?
+We finished the fan blades, and need to print them. 
+### What decisions were made?
+We decided to measure the output, so our mentor sent us a calculator to help us calculate volts and performance.
+### What new resources did you find?
+We found a turbine performance calculator and a website that explains the difference between volts and watts
+### What new issues were discovered?
+We need the resistor but don't have it
+### What went well?
+The blades CAD
+### What was difficult?
+Finding a time for a meeting
+### What is your plan for next week?
+Print wind turbine prototype
