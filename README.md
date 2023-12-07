@@ -43,7 +43,7 @@ It's hard to test wind turbines cause there isn’t always easy access to wind.
 ### What went well?
 The vertical aspect of the blades was easy to manufacture
 ### What was difficult?
-The fact that none of our scroews fit at all (goober moment)
+The fact that none of our screws fit at all (goober moment)
 ### What is our plan for next week?
 To check the voltage output of the prototype to see how much we need for the full scale. 
 #
@@ -60,5 +60,20 @@ We need the resistor but don't have it
 The blades CAD
 ### What was difficult?
 Finding a time for a meeting
+### What is your plan for next week?
+Print wind turbine prototype
+## Week 14 Review
+### What did you work on?
+we developed a method by which to attach our wings to the motor.
+### What decisions were made?
+We decided to friction fit over the screw method.
+### What new resources did you find?
+We found out the wings needed to be smaller to fit the 3d printer
+### What new issues were discovered?
+We found out that the laser cutter cuts at a slight angle. 
+### What went well?
+Our meeting with our mentor went well
+### What was difficult?
+figuring out what motor to use
 ### What is your plan for next week?
 Print wind turbine prototype
