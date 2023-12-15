@@ -77,3 +77,18 @@ Our meeting with our mentor went well
 figuring out what motor to use
 ### What is your plan for next week?
 Print wind turbine prototype
+## Week 15 Review
+### What did you work on?
+We found the correct dimensions for our attachments. 
+### What decisions were made?
+We stretched the screw holes out farther away to give the bolt more space.
+### What new resources did you find?
+We developed the attachment pieces. 
+### What new issues were discovered?
+The price of our print was way too much, so we brought it down. 
+### What went well?
+Our 3D printing for the attachment went well. 
+### What was difficult?
+Scaling the project back. 
+### What is your plan for next week?
+Build the wings together
