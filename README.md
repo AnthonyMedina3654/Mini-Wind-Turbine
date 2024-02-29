@@ -92,3 +92,48 @@ Our 3D printing for the attachment went well.
 Scaling the project back. 
 ### What is your plan for next week?
 Build the wings together
+## Week 17 Review
+### What did you work on?
+We finally convinced Mr. Miller to print our things finally
+### What decisions were made?
+We decided that fiberglass was a little too hard, therefore what we were printing is now our final.
+### What new resources did you find?
+We found the code for the INA260 that we are using. 
+### What new issues were discovered?
+3D printer wasn't working properly. 
+### What went well?
+Spencer's History quiz went really well and yay. 
+### What was difficult?
+Setting up the Raspberry Pi on the new computer. 
+### What is your plan for next week?
+Adjust our bolt holes. 
+## Week 18 Review
+### What did you work on?
+We adjusted our bolt holes away from the top so we could screw them in easier.  
+### What decisions were made?
+Mr. Miller decided it would be really cool and funny to not print our stuff so that I guess.
+### What new resources did you find?
+Found the INA Library so we could use it on the Raspberry Pi. 
+### What new issues were discovered?
+The lack of new print for our design. 
+### What went well?
+Tweaking the code. 
+### What was difficult?
+building something we didn't have because Mr. Miller didn't print it btw. 
+### What is your plan for next week?
+Build our pieces up and test our motor. 
+## Week 19 Review
+### What did you work on?
+We worked on the construction of our Wind Turbine.
+### What decisions were made?
+To use a different library for our INA project.
+### What new resources did you find?
+We found out more information about our INA from our mentor. 
+### What new issues were discovered?
+Skips in our motor.  
+### What went well?
+Our in-person mentor meeting went well. 
+### What was difficult?
+My Soccer tryouts for CHS
+### What is your plan for next week?
+Finish code. 
