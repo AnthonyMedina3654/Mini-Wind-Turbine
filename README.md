@@ -31,6 +31,8 @@ Mar 11th through  (Week 22): Apply to real life!!1
 
 [Brainstorming/Presentation Slideshow](https://docs.google.com/presentation/d/16n_K39IzQVf-3n8S99K7BM_SljGUPE2S10Zo1NXWe08/edit#slide=id.p)
 
+![Code Drawing]()  
+
 ## Week 12 review:
 ### What did we work on?
 We worked on our prototype and its blades. 
