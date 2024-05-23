@@ -33,21 +33,39 @@ Mar 11th through  (Week 22): Apply to real life!!1
 
 ## Pictures
 
+An early version of our code for the ina260
+
 ![Code Drawing](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/77010415767eafd985aaf836fd84df666ce85085/INA%20Code%20Pic.PNG)  
+
+The drawing of the laser cut piece we used to attach the motor to the turbine. The idea was that if we needed to switch motors, we would modify the attachment rather than reprint a secton of the turbine.
 
 ![Motor Attachment](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/Motor%20Attachment.PNG)  
 
+The 3d printed version of the wind turbine.
+
 ![Wind Turbine](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/WindTurbineTransparent.png)  
+
+An early idea of how we would use an anemometer and LCD screen to display the current wind speed. This idea was later scrapped for simplicity.
 
 ![Wiring](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/WiringIMade.png)  
 
+A second image of the 3d version of the wind turbine.
+
 ![Windmill IRL](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/inpersonwindmill.jpeg)
+
+A couple of the test parts for the 3d printed version of the wind turbine that needed modifications.
 
 ![Prototypes](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/prototypes.jpeg)
 
+Part A DIY wind turbine that our link lab mentor, Zack, gave us to test with.
+
 ![More Prototypes](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/spencerbox.jpeg)
 
+The CAD version of our wind turbine.
+
 ![Windmill in CAD](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/windmill.PNG)
+
+A second picture of the DIY wind turbine parts.
 
 ![Zachs Prototypes](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/zachbox_3201.jpeg)
 
