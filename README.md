@@ -53,7 +53,8 @@ Mar 11th through  (Week 22): Apply to real life!!1
 
 ## Bill of Materials
 
-NONE HAHAHAHHAHHHAHAHAHAH
+Fiberglass resin
+Fiberglass sheet
 
 ## Week 12 review:
 ### What did we work on?
