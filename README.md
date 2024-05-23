@@ -72,6 +72,7 @@ A second picture of the DIY wind turbine parts.
 ## Bill of Materials
 
 Fiberglass resin
+
 Fiberglass sheet
 
 ## Week 12 review:
