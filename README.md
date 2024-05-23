@@ -51,6 +51,10 @@ Mar 11th through  (Week 22): Apply to real life!!1
 
 ![Zachs Prototypes](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/0094cd5630d018be207c87570f2d3a1c36c9d918/zachbox_3201.jpeg)
 
+## Bill of Materials
+
+NONE HAHAHAHHAHHHAHAHAHAH
+
 ## Week 12 review:
 ### What did we work on?
 We worked on our prototype and its blades. 
