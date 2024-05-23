@@ -31,7 +31,7 @@ Mar 11th through  (Week 22): Apply to real life!!1
 
 [Brainstorming/Presentation Slideshow](https://docs.google.com/presentation/d/16n_K39IzQVf-3n8S99K7BM_SljGUPE2S10Zo1NXWe08/edit#slide=id.p)
 
-![Code Drawing]()  
+![Code Drawing](https://github.com/AnthonyMedina3654/Mini-Wind-Turbine/blob/77010415767eafd985aaf836fd84df666ce85085/INA%20Code%20Pic.PNG)  
 
 ## Week 12 review:
 ### What did we work on?
