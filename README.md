@@ -75,6 +75,14 @@ Fiberglass resin
 
 Fiberglass sheet
 
+## Operating Instructions
+
+1. Connect the correct motor attachment to the wind turbine
+2. Connect the motor to the motor attachment
+3. Put the motor on the proper mount for the occasion
+4. Turn the power on
+5. Let it spin
+
 ## Week 12 review:
 ### What did we work on?
 We worked on our prototype and its blades. 
